@@ -1,0 +1,2 @@
+Membuat file baru file2.txt
+ini merupakan isi file2.txt
