@@ -1,0 +1,1 @@
+Membuat file baru file1.txt
